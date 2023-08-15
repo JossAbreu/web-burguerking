@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* 
+:root{
+    --dark-color: #202020;
+    --light-color: #ffffff;
+
+    --text-dark-color: #ffffff;
+    --text-light-color: #000000;
+}
+
+.Light{
+    background-color: var(--light-color);
+    color: var(--text-light-color);
+}
+
+.dark {
+ 
+    background-color: var(--dark-color);
+    color: var(--text-dark-color);
+  }
+ */
+
