@@ -1,5 +1,5 @@
 import './style.css'
-
+import '@animxyz/core/dist/animXYZ.css';
 import { createApp } from 'vue'; 
 import App from './App.vue';
 import VueAnimXyz from '@animxyz/vue3';
